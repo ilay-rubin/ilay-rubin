@@ -31,6 +31,5 @@
 - 🌱 I’m currently mastering Linux & Docker & K8s
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
-- 📫 How to reach me: With a smile
-- ⚡ Fun fact: "A few minutes of playing Video Games clear the head and solves everything :)"
+- 📫 How to reach me: https://drive.google.com/file/d/15SYOdsZ_rU4JpY-D_5AiTHdcgo9FeaJD/view?usp=sharing
 
