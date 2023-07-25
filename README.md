@@ -27,9 +27,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" height="40"/>&nbsp;
 
-- 🔭 I’m currently working on getting my next AWS certification
-- 🌱 I’m currently mastering Linux & Docker & K8s
-- 👯 I’m looking to collaborate on DevOps issues
-- 💬 Ask me about anything
+- 🔭 I believe that every problem has a solution
+- 🌱 I’m currently mastering Linux & Docker & Kubernetes & Helm & AWS & What the client asks for 
+- 👯 I’m looking for challenging DevOps issues
 - 📫 How to reach me: https://drive.google.com/file/d/15SYOdsZ_rU4JpY-D_5AiTHdcgo9FeaJD/view?usp=sharing
 
